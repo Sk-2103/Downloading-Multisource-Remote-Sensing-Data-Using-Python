@@ -14,4 +14,4 @@ MODIS Data
 Sentinel-1 Data
 Each section includes example code for querying, downloading, and processing data. Comments and references are provided to guide users through the workflow.
 
-Find the full blog: 
+Find the full blog: https://medium.com/@saurabh21.kaushik/downloading-multisource-remote-sensing-data-using-python-94445b8e246a
